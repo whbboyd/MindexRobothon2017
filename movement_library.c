@@ -1,7 +1,7 @@
 // FIXME This syntax is wrong. I dunno if we have a preprocessor as such.
 int LINE_THRESH = 500;
 int INTO_INTERSECTION_DELAY = 500;
-int INTERSECTION_CLEAR_THRESH = 100;
+int INTERSECTION_CLEAR_THRESH = 10;
 
 
 void travelToNextIntersection() {
