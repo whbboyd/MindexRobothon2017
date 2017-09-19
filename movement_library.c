@@ -23,8 +23,9 @@ int determineAvailableDirections() {
 
 void turnAtIntersection(int direction) {
 	// if direction = 1, turn left
-	// if direction = 2, return
+	// if direction = 2, do nothing
 	// if direction = 4, turn right
+	// drive forward through intersection
 }
 
 void turnLeft() {
